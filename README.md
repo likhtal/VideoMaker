@@ -1,4 +1,4 @@
-# Video Maker - tool for creating video frames written in Python.
+# Video Maker - tool for creating video frames, written in Python.
 
 ### Requirements
 
